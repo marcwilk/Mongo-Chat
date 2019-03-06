@@ -21,4 +21,4 @@ Step Three: npm start
 <a href="https://mongodb.com/"><img src="images/mongodb-original.svg" target="_blank" title="MDB" alt="MDB" width="15%"></a>
 <a href="https://html.com/"><img src="images/html5-original.svg" target="_blank" title="HTML" alt="HTML" width="15%"></a>
 <a href="https://css-tricks.com/"><img src="images/css3-original.svg" target="_blank" title="CSS" alt="CSS" width="15%"></a>
-<a href="https://getbootstrap.com/"><img src="images/bootstrap-original.svg" target="_blank" title="Bootstrap" alt="Bootstrap" width="15%"></a>
+<a href="https://getbootstrap.com/"><img src="images/bootstrap-plain.svg" target="_blank" title="Bootstrap" alt="Bootstrap" width="15%"></a>

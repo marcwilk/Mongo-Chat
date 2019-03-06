@@ -2,11 +2,12 @@
 <a href="http://mongodb.com"><img src="images/mongochat.png" target="_blank" title="MongoChat" alt="MongoChat" width="35%"></a>
 </p>
 
-# MongoChat - Simple Chat App with MongoDB & SocketIO
+# MongoChat - Chat App with MongoDB & SocketIO
 
 ## Table of Contents
 
 - [Installation](#installation)
+- [About](#about)
 - [Technologies](#technologies)
 
 ### Installation
@@ -15,7 +16,13 @@ Step One: Clone this repo to your local machine
 Step Two: npm install  
 Step Three: npm start  
 
+### About
+
+A simple chat application.
+
 ### Technologies
+
+JavaScript, MongoDB, HTML, CSS, Bootstrap, SocketIO
 
 <a href="https://www.javascript.com/"><img src="images/javascript-original.svg" target="_blank" title="JS" alt="JS" width="15%"></a>
 <a href="https://mongodb.com/"><img src="images/mongodb-original.svg" target="_blank" title="MDB" alt="MDB" width="15%"></a>
